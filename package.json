@@ -1,0 +1,32 @@
+{
+  "name": "velreprehenderit",
+  "version": "1.0.0",
+  "description": "php date() work-alike for nodejs",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolandoSporer/velreprehenderit.git"
+  },
+  "main": "index.js",
+  "author": "FordBashirian",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "keywords": [
+    "Andras",
+    "sequi",
+    "time",
+    "placeat",
+    "conversion",
+    "php",
+    "voluptas"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit": "0.9.0",
+    "arlib": "0.1"
+  }
+}
